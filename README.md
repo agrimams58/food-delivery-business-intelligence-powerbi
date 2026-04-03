@@ -1,6 +1,6 @@
 # Food Delivery Business Intelligence Dashboard
 
-End-to-end Power BI project transforming raw food delivery data into actionable business insights across revenue, customer behavior, and delivery operations.
+🚀 End-to-end Power BI project solving real-world food delivery business problems using data-driven insights.
 
 ---
 
@@ -114,7 +114,12 @@ report/ → Business report (PDF)
 images/ → Dashboard screenshots  
 dataset/ → Raw dataset  
 ```
+##  Business Impact
 
+This project helps:
+- Identify delivery inefficiencies
+- Improve customer retention
+- Optimize operational performance
 ---
 
 ##  Important Note
